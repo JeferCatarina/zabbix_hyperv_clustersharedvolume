@@ -1,4 +1,4 @@
-# Zabbix Hyper-V Cluster Shared Volume LLD
+# Zabbix Hyper-V Cluster Shared Volume LLD.
 
 Requirement: Zabbix 4.0 +
 
